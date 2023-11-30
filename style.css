@@ -1,25 +1,7 @@
-*{
-    margin: 0;
-    padding: 0;
-
+input:focus{
+    border: 3px solid black;
 }
 
-header{
-    padding: 30px;
-    background-color: beige;
-}
-
-div{
-    width: 100px;
-    height: 100px;
-    background-color: blue;
-}
-
-
-/* Contact */
-
-.qutu2{
-    width: 200px;
-    height: 200px;
-    background-color: green;
+body{
+    background-color: red;
 }
